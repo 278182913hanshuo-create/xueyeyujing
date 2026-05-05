@@ -1,0 +1,19 @@
+# 生成的输出文件（不提交）
+results.csv
+ablation_results.csv
+*.png
+
+# CatBoost 训练产物
+catboost_info/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+.ipynb_checkpoints/
